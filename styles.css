@@ -1,0 +1,4 @@
+body { margin: 0; font-family: system-ui, sans-serif; background: #121110; color: #ece7de; }
+main { max-width: 40rem; margin: 4rem auto; padding: 0 1.5rem; }
+h1 { font-size: 2rem; margin: 0 0 0.5rem; }
+p { color: #a69f93; }
